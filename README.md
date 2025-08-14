@@ -1,6 +1,6 @@
 ## Movie Recommendation System
 This project implements a movie recommendation system using the MovieLens dataset.
-It demonstrates end-to-end data processing, exploratory analysis, and building recommendation models — from simple collaborative filtering to deep learning with TensorFlow.
+It demonstrates end-to-end data processing, exploratory analysis, and building recommendation models - from simple collaborative filtering to deep learning with TensorFlow.
 
 ### Tech Stack
 Python: Data processing, analysis, and modeling
@@ -40,12 +40,12 @@ Users’ average ratings
 Genre-based user preferences
 
 #### 4. Recommendation Models
-- Approach 1 – KNN Collaborative Filtering
+- Approach 1 - KNN Collaborative Filtering
 Implemented a K-Nearest Neighbors recommender using scikit-learn
 
 Finds similar movies based on user rating patterns
 
-- Approach 2 – Deep Learning (TensorFlow)
+- Approach 2 - Deep Learning (TensorFlow)
 Built a Neural Collaborative Filtering model with:
 
 User embeddings
@@ -62,6 +62,6 @@ KNN provides interpretable, similarity-based recommendations
 TensorFlow model captures more complex user-movie interactions and can scale better for large datasets
 
 ### Files
-- analysis.ipynb – Jupyter Notebook containing all steps
+- analysis.ipynb - Jupyter Notebook containing all steps
 
-- movies.csv, ratings.csv – MovieLens dataset files
+- movies.csv, ratings.csv - MovieLens dataset files
